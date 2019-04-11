@@ -1,0 +1,27 @@
+{
+  "name": "magnoliajs-2019-web-components",
+  "version": "1.0.0",
+  "description": "Sample code for web components workshop at MagnoliaJS 2019",
+  "main": "hello-world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/natec425/magnoliajs-2019-web-components.git"
+  },
+  "keywords": [
+    "magnoliajs",
+    "web",
+    "components"
+  ],
+  "author": "Nate Clark",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/natec425/magnoliajs-2019-web-components/issues"
+  },
+  "homepage": "https://github.com/natec425/magnoliajs-2019-web-components#readme",
+  "dependencies": {
+    "remarkable": "^1.7.1"
+  }
+}
